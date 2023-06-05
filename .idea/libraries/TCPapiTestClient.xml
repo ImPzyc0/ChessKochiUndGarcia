@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TCPapiTestClient">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/TCPapiTestClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
